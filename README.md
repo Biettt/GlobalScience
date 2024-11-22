@@ -4,7 +4,6 @@ O projeto tem como objetivo analisar as emissões de carbono no Brasil ao longo 
 
 ## ***Integrantes***
 Gabriela Marsiglia (RM 551237)</br>
-Felipe Masera Terra (RM 99405)</br>
 Leonardo Correia Moura (RM 550413)
 
 ## ***Questões de Pesquisa***
